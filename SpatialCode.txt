@@ -1,0 +1,4 @@
+This is SpatialCode File
+
+If you are seeing this, then it means that out git push worked
+If not, please inform the developers as soon as possible

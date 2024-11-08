@@ -1,0 +1,2 @@
+This file is the test if the backup servers are up and running properly
+Enter lines of commands below
